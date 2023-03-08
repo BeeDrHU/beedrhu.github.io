@@ -1,7 +1,8 @@
 ## Welcome to my Machine Learning Projects!
 
 ### Types of Neural Networks
-    There are two primary types of neural networks used today: recurrent and convolution.
+There are two primary types of neural networks used today: recurrent and convolution.
+
 The main difference between them is that the math theory behind recurrent neural networks (RNN) is specialized
 to allow for the user to analyze data that appears in sequences- where the data at one point in time is dependent
 on the data at another point in time. Convolution neural networks (CNN) on the other hand, are best used for computer 
