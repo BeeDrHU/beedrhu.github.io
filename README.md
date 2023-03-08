@@ -1,6 +1,5 @@
 ---
 title: Dr_Bee's Portfolio
-layout: default
 ---
 
 ## Hi, I'm Paul.
