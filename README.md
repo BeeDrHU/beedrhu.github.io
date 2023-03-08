@@ -1,3 +1,8 @@
+---
+title: Dr_Bee's Portfolio
+layout: default
+---
+
 ## Hi, I'm Paul.
 ## A scientist and software engineer.
 ### My passions are food, ecology, and technology. Currently, I'm excited about building AI tools and products for sustainable farming.
