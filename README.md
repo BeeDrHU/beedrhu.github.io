@@ -32,7 +32,7 @@ This project studied how miticides, a type of pesticides, can have negative effe
 ## Projects
 **[Neural Networks with Tensorflow](./neural_net.md)**
 
-This project demonstrates my ability to implement **recurrent neural networks** and **convolution neural networks** in Python using Tensorflow. 
+This project demonstrates my ability to implement **recurrent neural networks** in Python using Tensorflow. 
 
 ## Contact Me
 <div class="text-center">
