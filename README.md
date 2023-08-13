@@ -10,6 +10,8 @@ Now a days, I spend a portion of my time working on software. I began teaching m
 ![Photo of Dr. Paul](./pb.jpeg)
 
 ## Experience
+**Science Teacher** Royal Valley High School 2023-current
+
 **Adjunct Faculty** Heritage University 2020-current
 
 **Visiting Assistant Professor** Zambian Institute of Agriculture 2022-current
@@ -17,6 +19,10 @@ Now a days, I spend a portion of my time working on software. I began teaching m
 **Research Assistant** Washington State University 2018-2022
 
 ## Selected Research & Publications
+**[Improving Conservation Biological Control in Washington Specialty Crops](https://www.proquest.com/openview/6757ed7860db9c8b8a70524d4c5d6dfe/1.pdf?pq-origsite=gscholar&cbl=18750&diss=y)**
+
+This link will take you to my dissertation. Feel free to give it a read!
+
 **[Identifying Farming Strategies Associated With Achieving Global Agricultural Sustainability](https://www.frontiersin.org/articles/10.3389/fsufs.2022.882503/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Sustainable_Food_Systems&id=882503)** 
 
 This project was trying to examine the globabl agricultural system to see if there were any trends in farming practices that may help us achieve global agricultural sustainability as laid out by the United Nations 2030 Sustainable Development Goals. The results suggests that countries that are actively promoting "organic" practices, or who had the highest production of "organic" agriculture also had made greater progress towards key Sustainable Development Goals.
@@ -29,7 +35,7 @@ This project studied how herbicides applied to the floor of tree fruit orchards 
 
 This project studied how miticides, a type of pesticides, can have negative effects on beneficial predators of strawberry pests. Our work demonstrates that miticides have significant lethal and sublethal effects on the predators we were studying and that the effect of the pesticide depended on the species of predator that we were testing.
 
-## Projects
+## Example Computer Science Project
 **[Neural Networks with Tensorflow](./neural_net.md)**
 
 This project demonstrates my ability to implement **recurrent neural networks** in Python using Tensorflow. 
