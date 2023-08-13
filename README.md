@@ -3,7 +3,7 @@
 ### My passions are agriculture, education, ecology, and technology. Currently, I'm excited about building AI tools and products for sustainable farming.
 
 ## About Me
-I've spent the past 8 years in school getting a B.S. in Biology and a Ph.D. in Entomology (study of bugs). My goal for my academic research is to design farm management programs that helps farmers have healthier land, with higher profits, and lower reliance on external inputs.
+I've spent the past 8 years in school getting a B.S. in Biology with a minor in Chemistry, and a Ph.D. in Entomology (study of bugs). My goal for my academic research is to design farm management programs that helps farmers have healthier land, with higher profits, and lower reliance on external inputs.
 
 Now a days, I spend a portion of my time working on software. I began teaching myself to code 3+ years ago and consider myself to be a full-stack software developer. It's amazing what you can do do with a computer and internet connection. 
 
@@ -23,7 +23,7 @@ Now a days, I spend a portion of my time working on software. I began teaching m
 ## Selected Research & Publications
 **[Improving Conservation Biological Control in Washington Specialty Crops](https://www.proquest.com/openview/6757ed7860db9c8b8a70524d4c5d6dfe/1.pdf?pq-origsite=gscholar&cbl=18750&diss=y)**
 
-This link will take you to my dissertation. Feel free to give it a read!
+This link will take you to my Ph.D. dissertation. Feel free to give it a read!
 
 **[Identifying Farming Strategies Associated With Achieving Global Agricultural Sustainability](https://www.frontiersin.org/articles/10.3389/fsufs.2022.882503/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Sustainable_Food_Systems&id=882503)** 
 
