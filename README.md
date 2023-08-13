@@ -18,6 +18,8 @@ Now a days, I spend a portion of my time working on software. I began teaching m
 
 **Research Assistant** Washington State University 2018-2022
 
+**Research Associate** United States Department of Agriculture 2018-2023
+
 ## Selected Research & Publications
 **[Improving Conservation Biological Control in Washington Specialty Crops](https://www.proquest.com/openview/6757ed7860db9c8b8a70524d4c5d6dfe/1.pdf?pq-origsite=gscholar&cbl=18750&diss=y)**
 
